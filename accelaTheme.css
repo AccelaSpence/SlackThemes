@@ -54,6 +54,7 @@ div.client_channels_list_container {
     box-shadow: var(--background-elevated) 1px 1px 25px;
     color: var(--text);
     z-index: 1;
+    height: 24px;
 }
 
 nav.p-channel_sidebar {
