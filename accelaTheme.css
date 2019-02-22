@@ -118,7 +118,7 @@ ts-jumper input[type="text"],
 
 .p-channel_sidebar__static_list div {
     margin-right: 2px;
-    height: 100% !important;
+    height: 24px !important;
 }
 
 .p-channel_sidebar__channel--selected,
@@ -223,6 +223,9 @@ ts-jumper ol li .member_real_name, ts-jumper ol li .view_name, ts-jumper ol li .
     ts-jumper input[type="text"]::-webkit-input-placeholder {
         color: var(--text) !important;
     }
+.p-channel_sidebar__jumper{
+    margin:54px;
+}
 
 #msg_input, #primary_file_button {
     background: transparent !important;
