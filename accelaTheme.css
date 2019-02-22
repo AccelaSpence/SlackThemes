@@ -224,7 +224,7 @@ ts-jumper ol li .member_real_name, ts-jumper ol li .view_name, ts-jumper ol li .
         color: var(--text) !important;
     }
 .p-channel_sidebar__jumper{
-    padding:24px;
+    padding: 2px;
 }
 
 #msg_input, #primary_file_button {
