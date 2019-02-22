@@ -54,7 +54,6 @@ div.client_channels_list_container {
     box-shadow: var(--background-elevated) 1px 1px 25px;
     color: var(--text);
     z-index: 1;
-    height: 24px;
 }
 
 nav.p-channel_sidebar {
@@ -100,6 +99,7 @@ ts-jumper input[type="text"],
 .supports_custom_scrollbar:not(.slim_scrollbar) #col_channels:hover #channels_scroller::-webkit-scrollbar-track,
 #channel_header_info, #channel_topic_text, #channel_topic_text code, #edit_topic_inner:before {
     background: var(--background) !important;
+    height: 24px;
 }
 
 .channel_header, #col_messages, #footer {
@@ -168,7 +168,7 @@ li.active[class] span,
     background-color: var(--background);
     border: 1px solid var(--border-bright);
     border-top: none;
-    border-radius: 0 0 25px 25px;
+    border-radius: 0 0 15px 15px;
 }
 
 /*"more unreads" bottom */
@@ -176,7 +176,7 @@ li.active[class] span,
     background-color: var(--background);
     border: 1px solid var(--border-bright);
     border-bottom: none;
-    border-radius: 25px 25px 0 0;
+    border-radius: 15px 15px 0 0;
 }
 
 /*"unread mentions"*/
