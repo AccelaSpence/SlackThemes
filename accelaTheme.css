@@ -99,7 +99,6 @@ ts-jumper input[type="text"],
 .supports_custom_scrollbar:not(.slim_scrollbar) #col_channels:hover #channels_scroller::-webkit-scrollbar-track,
 #channel_header_info, #channel_topic_text, #channel_topic_text code, #edit_topic_inner:before {
     background: var(--background) !important;
-    height: 24px;
 }
 
 .channel_header, #col_messages, #footer {
