@@ -223,9 +223,7 @@ ts-jumper ol li .member_real_name, ts-jumper ol li .view_name, ts-jumper ol li .
     ts-jumper input[type="text"]::-webkit-input-placeholder {
         color: var(--text) !important;
     }
-.p-channel_sidebar__jumper{
-    padding: 50px;
-}
+
 
 #msg_input, #primary_file_button {
     background: transparent !important;
