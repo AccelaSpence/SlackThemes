@@ -31,6 +31,10 @@
   --silver: #9da5b4;
   --black: #21252b; }
 
+.c-virtual_list__sticky_container {
+ color: white; 
+}
+
 @keyframes fade-background-highlight {
   from {
     background-color: var(--background-hover); }
