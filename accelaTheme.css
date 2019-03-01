@@ -2,7 +2,7 @@
 :root {
     /* Modify these to change your theme colors: */
     --primary: #09F;
-    --text: #DDD;
+    --text: white;
     --background: #002C76;
     --background-elevated: #222;
     /* These should be less important: */
@@ -17,10 +17,11 @@
     --scrollbar-border: var(--primary);
 }
 
-/* h1, h2, h3, h4 {
+h1, h2, h3, h4 {
     color: var(--text);
 }
-*/
+
+
 
 .client_channels_list_container {
     color: var(--background);
