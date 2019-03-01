@@ -53,7 +53,7 @@ hr {
 div.client_channels_list_container {
    background-color: var(--background-elevated) !important;
    box-shadow: var(--background-elevated) 1px 1px 25px;
-   color: var(--text);
+   color: #F9FAFB;
    z-index: 1;
 }
 
