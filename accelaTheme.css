@@ -53,13 +53,13 @@ hr {
 div.client_channels_list_container {
    background-color: var(--background-elevated) !important;
    box-shadow: var(--background-elevated) 1px 1px 25px;
-   color: #F9FAFB;
+   color: var(--text);
    z-index: 1;
 }
 
 nav.p-channel_sidebar {
    background-color: var(--background-elevated);
-   color: var(--text);
+   color: #F9FAFB;
 }
 
 #team_menu,
