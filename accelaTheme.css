@@ -1364,6 +1364,9 @@ color: #36393f;
 .c-message_list__unread_divider--ghost{
 	background-color: #c0d1c4;
 }
+.c-message_list__unread_divider__separator {
+	background-color: #c0d1c4;
+}
 
 /* message editor */
 .c-message__editor__input {
