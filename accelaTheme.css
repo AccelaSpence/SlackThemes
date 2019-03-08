@@ -315,9 +315,9 @@ ts-jumper input[type="text"]::-webkit-input-placeholder {
 }
 
 textarea, input[type="text"], #file_comment_textarea {
-	background-color: var(--background-elevated) !important;
+	background-color: #c0d1c4 !important;
    border-color: var(--border-dim) !important;
-   color: var(--text) !important;
+   color: #36393f !important;
 }
 textarea:focus, input[type="text"]:focus, #file_comment_textarea {
    border-color: var(--border-bright) !important;
