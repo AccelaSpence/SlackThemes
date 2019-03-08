@@ -1355,7 +1355,7 @@ nav {
 }
 /* unread message divider badge */
 .c-message_list__unread_divider__label {
-    background: var(--background-elevated);
+    background: #c0d1c4;
 }
 
 /* message editor */
