@@ -1359,14 +1359,8 @@ nav {
 color: #36393f;
 }
 
-.c-message_list__unread_divider__separator {
-	border-color: #c0d1c4;
-	border-bottom: none;
-		border-bottom-width: initial;
-		border-bottom-style: none;
-		border-bottom-color: #c0d1c4;
-	margin: 0 0 -1px;
-	transition: border .15s ease-out 0;
+.ts_icon_cog_o {
+	color: #A1EED2
 }
 
 
