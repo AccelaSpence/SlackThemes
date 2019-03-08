@@ -59,7 +59,7 @@ div.client_channels_list_container {
 
 nav.p-channel_sidebar {
    background-color: var(--background-elevated);
-   color: #F9FAFB;
+   color: var(--text);
 }
 
 #team_menu,
