@@ -1366,6 +1366,7 @@ color: #36393f;
 }
 .c-message_list__unread_divider__separator {
 	background-color: #c0d1c4;
+	aria-hidden="true";
 }
 
 /* message editor */
