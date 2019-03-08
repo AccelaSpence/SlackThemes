@@ -1356,6 +1356,10 @@ nav {
 /* unread message divider badge */
 .c-message_list__unread_divider__label {
     background: #c0d1c4;
+color: #36393f;
+}
+.c-message_list__unread_divider {
+	background-color: #c0d1c4;
 }
 
 /* message editor */
