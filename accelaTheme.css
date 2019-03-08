@@ -1358,7 +1358,7 @@ nav {
     background: #c0d1c4;
 color: #36393f;
 }
-.c-message_list__unread_divider {
+.c-message_list__unread_divider, .c-message_list__unread_divider--ghost {
 	background-color: #c0d1c4;
 }
 
