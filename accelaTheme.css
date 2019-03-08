@@ -1361,6 +1361,8 @@ color: #36393f;
 
 .c-message_list__unread_divider__separator {
 	border-color: #c0d1c4;
+	border-bottom-color: #c0d1c4;
+	margin: 0 0 -1px;
 }
 
 
