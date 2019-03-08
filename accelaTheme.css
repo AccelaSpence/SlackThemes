@@ -1366,6 +1366,7 @@ color: #36393f;
 		border-bottom-style: none;
 		border-bottom-color: #c0d1c4;
 	margin: 0 0 -1px;
+	transition: border .15s ease-out 0;
 }
 
 
